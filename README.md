@@ -4,7 +4,26 @@
 
 ## Hi! I'm Stepan and I'm a beginner Software Engeneer
 ##
-![Header](https://github.com/Sier0x/Sier0x/blob/main/Assets/About_me.png)
+###namespace UniversityOfTyumen{
+###
+### public class Developer():
+###		public Developer(){
+###			UserName = 'Sier0x';
+###			Name = 'Stepan Myasnikov';
+###			static code = new code {'frontend':[HTML, 'JS', 'TS', 'HTTP'],
+###									'Backend':['CPP', 'JAVA', 'C#']
+###									'devops': ['Docker', 'Heroku']};
+###
+###		}
+###
+###
+### class Program{
+###		public static void main(){
+###			Developer Sier0x = new Developer();
+###
+### }
+###}
+
 
 
 ### Languages and Tools:
