@@ -1,4 +1,4 @@
-[![Header](https://github.com/Sier0x/Sier0x/blob/main/Assets/Header.gif)](https://vk.com/sier0x)
+﻿[![Header](https://github.com/Sier0x/Sier0x/blob/main/Assets/Header.gif)](https://vk.com/sier0x)
 
 
 
@@ -42,3 +42,7 @@ public class Developer(){
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sier0x)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/invites/contact/?i=1n03x1i82x8ht&utm_content=n4bragc)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/Sier0x)
+
+ <summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=TopCodeBeast&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="TopCodeBeast" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TopCodeBeast&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="TopCodeBeast" align = "center"/></p>
