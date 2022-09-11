@@ -9,7 +9,7 @@
 ```Java
 public class Developer(){
     public Developer(){
-        username = 'Sir0x';
+        username = 'Sier0x';
         name = 'Stepan Myasnikov';
         string code = new [{
             'frontend': ['HTML', 'CSS', 'JS', 'HTTP'],
