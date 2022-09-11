@@ -4,25 +4,28 @@
 
 ## Hi! I'm Stepan and I'm a beginner Software Engeneer
 ##
-###namespace UniversityOfTyumen{
-###
-### public class Developer():
-###		public Developer(){
-###			UserName = 'Sier0x';
-###			Name = 'Stepan Myasnikov';
-###			static code = new code {'frontend':[HTML, 'JS', 'TS', 'HTTP'],
-###									'Backend':['CPP', 'JAVA', 'C#']
-###									'devops': ['Docker', 'Heroku']};
-###
-###		}
-###
-###
-### class Program{
-###		public static void main(){
-###			Developer Sier0x = new Developer();
-###
-### }
-###}
+<h4>
+  
+```python
+public class Developer(){
+    public Developer(){
+        username = 'Sir0x';
+        name = 'Stepan Myasnikov';
+        string code = new [{
+            'frontend': ['HTML', 'CSS', 'JS'],
+            'backend': ['Python', 'Django', 'Flask', 'Express.js'],
+            'devops': ['Docker', 'Heroku'],
+            'database': ['SQLite3', 'PostgreSQL', 'MongoDB'],
+        }];
+ class Program{
+      public static void Main(){
+            Developer Sier0x = new Developer();
+            Sier0x.Begin();
+      }
+ }       
+ 
+```
+
 
 
 
