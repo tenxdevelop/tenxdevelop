@@ -6,14 +6,14 @@
 ##
 <h4>
   
-```python
+```Java
 public class Developer(){
     public Developer(){
         username = 'Sir0x';
         name = 'Stepan Myasnikov';
         string code = new [{
-            'frontend': ['HTML', 'CSS', 'JS'],
-            'backend': ['Python', 'Django', 'Flask', 'Express.js'],
+            'frontend': ['HTML', 'CSS', 'JS', 'HTTP'],
+            'backend': ['C#', 'CPP', 'Java', 'Express.js'],
             'devops': ['Docker', 'Heroku'],
             'database': ['SQLite3', 'PostgreSQL', 'MongoDB'],
         }];
@@ -39,6 +39,6 @@ public class Developer(){
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sier0x)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/invites/contact/?i=1n03x1i82x8ht&utm_content=n4bragc)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/Sier0x)
