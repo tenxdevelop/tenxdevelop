@@ -17,8 +17,8 @@ public class Developer(){
         }];
  class Program{
       public static void Main(){
-            Developer Sier0x = new Developer();
-            Sier0x.Begin();
+            Developer Zer0 = new Developer();
+            Zer0.Begin();
       }
  }       
  
