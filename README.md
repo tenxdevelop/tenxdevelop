@@ -1,5 +1,5 @@
 ﻿
-## Hi! I'm Stepan and I'm a beginner Software Engeneer
+## Hi! My name is Stepan and I'm a beginner Software Engeneer
 ##
 <h4>
  
