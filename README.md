@@ -20,6 +20,10 @@
 💫 About Me:
 
 
+<p align="center">
+ <img width="600" src="Assets/Snake.svg" alt="snake"/>
+</p>
+
 :star: Here are some projects that I'm working on:
 
 
@@ -35,16 +39,24 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/llZer0ll)
 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+</div>
+
+### 🛠 Инструменты:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;  
+</div>
 
 
 <details>
-<summary>:trophy: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=l1Zer01l&show_icons=true&theme=synthwave">
+    <summary>:trophy: Github Stats</summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=l1Zer01l&show_icons=true&theme=synthwave">
 </details>
 
 <details>
-<summary>:tv: List Favorites Anime</summary>
+    <summary>:tv: List Favorites Anime</summary>
   
 <!-- favorites_anime starts -->
 * [One Piece](https://anilist.co/anime/21)
