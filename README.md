@@ -52,6 +52,7 @@
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="opengl" width="40" height="40"/>&nbsp;
+    <img src="https://e7.pngegg.com/pngimages/409/463/png-clipart-graphical-network-simulator-3-cisco-ios-cisco-systems-computer-network-dynamips-others-computer-network-text-thumbnail.png" title="GNS3" alt="GNS3" width="40" height="40"/>&nbsp;
 </div>
 
 
