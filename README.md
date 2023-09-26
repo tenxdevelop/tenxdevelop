@@ -62,7 +62,7 @@
 <details>
     <summary>:trophy: Статистика на Github</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=l1Zer01l&show_icons=true&theme=synthwave">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1Zer01l&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact">    
+![]("https://github-readme-stats.vercel.app/api/top-langs/?username=l1Zer01l&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact")  
 </details>
 
 
