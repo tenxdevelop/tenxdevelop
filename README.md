@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Stepan</h1>
 <h3 align="center">I'm beginner software engeneer</h3>
 
-# 💫 About Me:
+💫 About Me:
 
 
+:star: Here are some projects that I'm working on:
 
 
 ### Socials:
@@ -13,5 +14,5 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/llZer0ll)
 
 
-# 💻 Tech Stack:
+💻 Tech Stack:
 
