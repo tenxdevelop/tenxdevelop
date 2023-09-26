@@ -55,8 +55,6 @@
     <img src="https://raw.githubusercontent.com/github/explore/c3d26100a68707ea04c5acc8d743777ba34ce34f/topics/vm-box/vm-box.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
 </div>
 <br><br>
-<br><br>
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vbncursed&theme=slateorange&hide_border=false)
 <details>
