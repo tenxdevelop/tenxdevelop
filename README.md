@@ -14,11 +14,10 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/llZer0ll)
 
 
-💻 Tech Stack:
+## 💻 Tech Stack:
 
 <details>
 <summary>:trophy: Github Stats</summary>
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=l1Zer01l">
-<img src="https://github-profile-trophy.vercel.app/?username=l1Zer01l">
 </details>
 
