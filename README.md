@@ -36,7 +36,7 @@
 ### Социальные сети:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sier0x)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/invites/contact/?i=1n03x1i82x8ht&utm_content=n4bragc)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/llZer0ll)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/l1zer01l)
 
 
 ### 💻 Технический стек:
@@ -83,4 +83,4 @@
 <a href="https://t.me/Sier0x" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40l1Zero1l-28a8ea"></a>
 <a href="https://www.instagram.com/invites/contact/?i=1n03x1i82x8ht&utm_content=n4bragc" target="_blank"><img src="https://img.shields.io/badge/Instagram-l1Zero1l-informational"></a>
 <a href="mailto:zero-0_0@bk.ru"><img src="https://img.shields.io/badge/Email-zero--0_0@bk.ru-orange"></a>
-<a href="https://vk.com/llZer0ll" target="_blank"><img src="https://img.shields.io/badge/Vkontakte-l1Zer01l-red"></a>
+<a href="https://vk.com/l1zer01l" target="_blank"><img src="https://img.shields.io/badge/Vkontakte-l1Zer01l-red"></a>
