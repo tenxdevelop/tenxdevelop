@@ -16,3 +16,9 @@
 
 💻 Tech Stack:
 
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=l1Zer01l">
+<img src="https://github-profile-trophy.vercel.app/?username=l1Zer01l">
+</details>
+
