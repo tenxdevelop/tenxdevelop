@@ -18,6 +18,6 @@
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=l1Zer01l">
+![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=llZer0ll&show_icons=true&theme=synthwave)
 </details>
 
