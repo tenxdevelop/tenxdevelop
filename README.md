@@ -16,8 +16,9 @@
 
 ## 💻 Tech Stack:
 
+
 <details>
 <summary>:trophy: Github Stats</summary>
-![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1Zer01l&show_icons=true&theme=synthwave)
+<img src="https://github-readme-stats.vercel.app/api?username=l1Zer01l&show_icons=true&theme=synthwave">
 </details>
 
