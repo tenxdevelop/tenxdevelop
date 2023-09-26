@@ -1,4 +1,19 @@
-﻿
+﻿<pre>
+            ___           ___           ___       ___       ___     
+           /\__\         /\  \         /\__\     /\__\     /\  \    
+          /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+         /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+        /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+       /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+       \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+            \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+            /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+           /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+           \/__/         \/__/         \/__/     \/__/     \/__/    
+
+
+</pre>
+
 <h1 align="center">Hi 👋, I'm Stepan</h1>
 <h3 align="center">I'm beginner software engeneer</h3>
 
@@ -6,6 +21,12 @@
 
 
 :star: Here are some projects that I'm working on:
+
+
+:page_with_curl: I'm currently learning:
+<br><br>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
 
 
 ### Socials:
