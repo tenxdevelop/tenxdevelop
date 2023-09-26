@@ -72,6 +72,11 @@
 <!-- favorites_anime starts -->
 * [One Piece](https://anilist.co/anime/21)
 * [Kimetsu no Yaiba](https://anilist.co/anime/101922)
+* [Shingeki no Kyojin 3 Part 2](https://anilist.co/anime/104578)
+* [Naruto](https://anilist.co/anime/20)
+* [DEATH NOTE](https://anilist.co/anime/1535)
+* [BLEACH: Sennen Kessen-hen](https://anilist.co/anime/116674)
+* [Cyberpunk-Edgerunners](https://anilist.co/anime/120377)
 <!-- favorites_anime ends -->
 
 </details>
