@@ -60,8 +60,8 @@
 <details>
     <summary>:trophy: Статистика на Github</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=tenxdevelop&show_icons=true&theme=synthwave">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=tenxdevelop&theme=synthwave&border_radius=4.6"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenxdevelop&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact"><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tenxdevelop&theme=synthwave&border_radius=4.6">
     
 </details>
 
