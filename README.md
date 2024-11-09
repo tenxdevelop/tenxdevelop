@@ -34,9 +34,9 @@
 
 
 ### Социальные сети:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Sier0x)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/tenxdevelop)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/invites/contact/?i=1n03x1i82x8ht&utm_content=n4bragc)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/l1zer01l)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/tenxdeveloper)
 
 
 ### 💻 Технический стек:
@@ -85,7 +85,7 @@
 
 Не стесняйтесь обращаться ко мне :yum:
 <br><br>
-<a href="https://t.me/Sier0x" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40l1Zero1l-28a8ea"></a>
-<a href="https://www.instagram.com/invites/contact/?i=1n03x1i82x8ht&utm_content=n4bragc" target="_blank"><img src="https://img.shields.io/badge/Instagram-l1Zero1l-informational"></a>
-<a href="mailto:zero-0_0@bk.ru"><img src="https://img.shields.io/badge/Email-zero--0_0@bk.ru-orange"></a>
-<a href="https://vk.com/l1zer01l" target="_blank"><img src="https://img.shields.io/badge/Vkontakte-l1Zer01l-red"></a>
+<a href="https://t.me/tenxdevelop" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40tenxdeveloper-28a8ea"></a>
+<a href="https://www.instagram.com/invites/contact/?i=1n03x1i82x8ht&utm_content=n4bragc" target="_blank"><img src="https://img.shields.io/badge/Instagram-tenxdeveloper-informational"></a>
+<a href="mailto:tenxdeveloper@bk.ru"><img src="https://img.shields.io/badge/Email-tenxdeveloper@bk.ru-orange"></a>
+<a href="https://vk.com/tenxdeveloper" target="_blank"><img src="https://img.shields.io/badge/Vkontakte-tenxdeveloper-red"></a>
