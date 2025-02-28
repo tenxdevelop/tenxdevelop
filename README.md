@@ -45,7 +45,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
     <img src="https://premake.github.io/img/premake-logo.png" title="premake" alt="premake" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>%nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" width="40" height="40" />&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="AspNetMVC" width="40" height="40"/>&nbsp;
 </div>
