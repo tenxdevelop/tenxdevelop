@@ -45,9 +45,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
     <img src="https://premake.github.io/img/premake-logo.png" title="premake" alt="premake" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/tree/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>%nbsp;
-	<img src="https://github.com/devicons/devicon/tree/master/icons/azuresqldatabase/azuressqldatabase-original.svg" title="SQL" width="40" height="40" />&nbsp;
-	<img src="https://github.com/devicons/devicon/tree/master/icons/dotnetcore/dotnetcore-original.svg" title="AspNetMVC" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="cmake" alt="cmake" width="40" height="40"/>%nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" width="40" height="40" />&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="AspNetMVC" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🛠 Инструменты:
@@ -56,8 +56,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="opengl" alt="opengl" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/2739187?s=280&v=4" title="GNS3" alt="GNS3" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/c3d26100a68707ea04c5acc8d743777ba34ce34f/topics/vm-box/vm-box.png" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/tree/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;	
+	<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;	
 </div>
 <br><br>
 
