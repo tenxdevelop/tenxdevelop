@@ -30,11 +30,12 @@
 
 :page_with_curl: В настоящее время я учу:
 <br><br>
-![DJANGO](https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg)
-![REACT](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
-![JAVASCRIPT](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+<div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="30" height="30"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="30" height="30"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="30" height="30"/>&nbsp;
+	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="cpp" alt="cpp" width="50" height="30"/>&nbsp;
+</div>
 
 
 ### Социальные сети:
@@ -53,6 +54,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40" />&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="AspNetMVC" alt="AspNetMVC" width="40" height="40"/>&nbsp;
 	<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" title="Unity" alt="Unity" width="60" height="40"/>&nbsp;
+	<img src="https://github.com/dotnet/efcore/blob/main/logo/ef-logo.png" title="EntityFramework" alt="EntityFramework" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🛠 Инструменты:
