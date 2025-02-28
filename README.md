@@ -30,6 +30,9 @@
 
 :page_with_curl: В настоящее время я учу:
 <br><br>
+![DJANGO](https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg)
+![REACT](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
+![JAVASCRIPT](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
